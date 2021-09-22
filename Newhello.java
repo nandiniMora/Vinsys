@@ -1,2 +1,2 @@
-public class{
+public class Newhello{
 }
